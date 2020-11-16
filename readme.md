@@ -1,4 +1,4 @@
-### Hi, my names is Hannes
+### Hi, my names is Hannes Jämtner
 
 ## I'm a Student and a Developer!
 - :books: I'm currently studying my 4th year at Linkoping Universitety as Master of Science in Computer Science and Software Engineering[study].
