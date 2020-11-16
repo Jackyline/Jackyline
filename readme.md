@@ -7,7 +7,7 @@
 
 ### Spotify Playing :headphones:
 
-[<img src="https://novatorem.jackyline.vercel.app/api/spotify-playing" alt="Hannes Jämtner Spotify Playing" width="350" />](https://open.spotify.com/user/1146260406) 
+[<img src="https://novatorem.jackyline.vercel.app/api/spotify" alt="Hannes Jämtner Spotify Playing" width="350" />](https://open.spotify.com/user/1146260406) 
 
 ### Connect with me:
 [<img align="left" alt="Hannes Jämtner | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
