@@ -47,4 +47,5 @@
 
 
 [linkedin]: https://www.linkedin.com/in/hannes-j%C3%A4mtner-065039186/
+[study]: https://liu.se/en/education/program/6cmju
 [gmail]: mailto:hannes.jamtner@gmail.com
