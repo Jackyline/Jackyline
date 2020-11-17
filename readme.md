@@ -43,6 +43,8 @@
 
   <img align="left" alt="Hannes Jämtner's GitHub Stats" src="https://github-readme-stats.jackyline.vercel.app/api?username=Jackyline&show_icons=true&hide_border=true&count_private=true" />
 
+  <br />
+  NOTE: GitHub Stats is still in beta and doesn't seem to count properly. A lot of my repositories are imported from my GitLab and therefore, these commits doesn't either count.
 </details>
 
 
