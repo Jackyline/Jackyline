@@ -1,9 +1,9 @@
 ### Hi, my names is Hannes Jämtner
 
-## I'm a Student and a Developer!
-- :books: I'm currently studying my 5th year at Linkoping Universitety as [Master of Science in Computer Science and Software Engineering][study].
+## I'm a Software engineer and a Developer!
+- :books: I have studied at Linkoping Universitety as [Master of Science in Computer Science and Software Engineering][study].
 - :coffee: I'm always looking for new challenges.
-- :goal_net: 2021 Goals: Keep creating projects and coding
+- :goal_net: 2023 Goals: Keep creating projects and coding
 
 ### Spotify Playing :headphones:
 
